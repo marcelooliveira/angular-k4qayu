@@ -4,6 +4,7 @@ import { environment } from './environments/environment';
 
 import { AppModule } from './app/app.module';
 
+//debugger;
 if (environment.production) {
   enableProdMode();
 }
